@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
+@import "~quill/dist/quill.snow.css";
+
+[ng-quill-editor] { display: block; }
 
 :root {
   --primary-color: #000000;
